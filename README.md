@@ -26,8 +26,8 @@ a user to make sense of which explanation technique is mostly aligned with his u
 and suitable for his use case. Agreeing upon a definition of explainability, and
 its quantitative evaluation metrics will significantly contribute toward an improvement
 in developing new, efficient, and trusted models and explainability methods. 
-In this work, we implement a proof of concept of the idea that interpretability cannot be broadly de-
-fined or generalized for all humans. It remains a polylithic concept different for every
+In this work, we implement a proof of concept of the idea that interpretability cannot be broadly 
+defined or generalized for all humans. It remains a polylithic concept different for every
 user. Furthermore, we demonstrate that clustering users depending on their expertise
 allows us to reach a good compromise in the trade-off between giving the most suitable
 explanation to each different user and giving the overall best explanation to all users. By

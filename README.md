@@ -2,8 +2,7 @@
 XAI - Master Thesis TU Berlin 2020
 
 
-Abstract.
-
+Abstract
 Even with their advantageous high accuracy, many users are reluctant to trust ML
 models in critical situations because of their opaqueness. Fortunately, recent interpretability
 techniques have allowed faithful explanations of complex models, giving a
@@ -38,8 +37,7 @@ explanation features -criteria- that are important to each one of them. Therefor
 this work can be extended to other fields -and other profiles- in order to enhance the
 users' understanding of the explanation, their satisfaction, and trust of decision systems.
 
-Keywords. 
-
+Keywords
 Explainable Artificial Intelligence, Interpretable Machine Learning, Deep
 Learning, Interpretability, Comprehensibility, Explainability, Black-box models, Posthoc
 interpretability.

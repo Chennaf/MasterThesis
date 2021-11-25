@@ -8,8 +8,7 @@ models in critical situations because of their opaqueness. Fortunately, recent i
 techniques have allowed faithful explanations of complex models, giving a
 user the possibility to understand the reasoning of his model. This field is known as
 explainable AI, interpretable ML, or XAI. It not only allows to understand the underlying
-logic of the model or its individual predictions, but also aims to detect 
-aws and
+logic of the model or its individual predictions, but also aims to detect flaws and
 biases, gain new insights into the problem, verify the correctness of the predictions, and
 finally improve or correct the model itself. Moreover, emerging regulations have made
 mandatory the audit and verifiability of decisions made by ML or AI systems, increasing
